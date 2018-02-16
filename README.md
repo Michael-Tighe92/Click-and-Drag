@@ -1,2 +1,3 @@
 # Click-and-Drag
-Created using Click and Drag (JavaScript30)
+
+- A Javascript project that allows you to click and drag to scroll across the image.
